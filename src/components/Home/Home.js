@@ -6,7 +6,7 @@ import { Fade } from "react-reveal";
 import Home2 from "./Home2";
 import Home3 from "./Home3";
 import Type from "./Type";
-import Resume from "../Resume/Resume";
+
 
 
 function Home() {
@@ -53,7 +53,7 @@ function Home() {
         </Container>
    
       <Fade top duration={8000} distance="90px">
-      <Resume/>
+      <Home2 />
       </Fade>
       </Container>
       <Fade bottom duration={8000} distance="90px">
