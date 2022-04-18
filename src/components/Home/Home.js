@@ -51,10 +51,7 @@ function Home() {
           </Row>
 
         </Container>
-     
-      <Fade bottom duration={8000} distance="90px">
-        <Home2 />
-      </Fade>
+   
       <Fade top duration={8000} distance="90px">
       <Resume/>
       </Fade>
